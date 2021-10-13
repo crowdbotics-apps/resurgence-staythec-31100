@@ -60,6 +60,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [privacy-policy]()
 - [terms-and-conditions]()
 - [django-articles](backend/modules)
+- [react-native-articles](modules/articles)
 
 # Getting started: Frontend
 
