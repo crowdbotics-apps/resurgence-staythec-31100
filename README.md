@@ -61,6 +61,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [terms-and-conditions]()
 - [django-articles](backend/modules)
 - [react-native-articles](modules/articles)
+- [camera]()
 
 # Getting started: Frontend
 
